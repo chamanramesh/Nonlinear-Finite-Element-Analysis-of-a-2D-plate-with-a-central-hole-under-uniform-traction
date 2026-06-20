@@ -1,7 +1,4 @@
 # Nonlinear-Finite-Element-Analysis-of-a-2D-plate-with-a-central-hole-under-uniform-traction
-cd "/mnt/d/67771_RAMESH_CHAMAN_PVL_NLFEM"
-
-cat >> README.md <<'EOF'
 
 ## 2.2 Running the Code
 
